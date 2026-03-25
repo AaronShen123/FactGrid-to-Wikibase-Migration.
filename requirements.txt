@@ -1,0 +1,3 @@
+wikibaseintegrator
+pandas
+requests
